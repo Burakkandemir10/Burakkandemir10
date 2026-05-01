@@ -5,7 +5,7 @@ I am a **Software Development student at Gazi University**, currently maintainin
 ### 🚀 About Me
 
 * 🎓 **Education:** Pursuing an Associate Degree in Computer Programming at Gazi University (2025-2027).
-* 💻 **Focus:** Mastering C#, Java, and Web Technologies (HTML, CSS, JavaScript).
+* 💻 Focus: Mastering C#, Java, Web Technologies (HTML, CSS, JavaScript), Game Development, and Mobile Applications.
 * 🛠️ **Tools:** Proficient in version control with Git and database management using SQLite and SQL.
 * 🎯 **Goal:** I am deeply passionate about game development and aspire to build a professional career within the gaming industry.
 * 🌍 **Languages:** Native Turkish and Intermediate English.
