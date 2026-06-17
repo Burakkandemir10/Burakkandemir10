@@ -1,6 +1,6 @@
 # Hi there! I'm Burak Kandemir 👋
 
-I am a **Software Development student at Gazi University**, currently maintaining a **3.37 GPA**. I focus on building robust applications using **C#** and **.NET** while exploring the broader landscape of modern software engineering.
+I am a **Software Development student at Gazi University**, currently maintaining a **3.63 GPA**. I focus on building robust applications using **C#** and **.NET** while exploring the broader landscape of modern software engineering.
 
 ### 🚀 About Me
 
