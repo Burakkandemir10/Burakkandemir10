@@ -21,8 +21,7 @@ Currently, I am heavily focused on **embedded systems** and actively learning **
 
 ###  GitHub Stats
 
-[![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burakkandemir10&show_icons=true&theme=dark)](https://github.com/Burakkandemir10)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burakkandemir10&theme=dark)](https://github.com/Burakkandemir10)
 <br/>
 
  **Let's Connect:**
