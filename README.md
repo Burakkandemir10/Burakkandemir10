@@ -2,7 +2,7 @@
 
 I am a second-year Computer Programming student at Gazi University (GPA: 3.63). The two areas that interest me most in software development are **embedded systems** and the **gaming industry**.
 
-Currently, I am heavily focused on **embedded systems** and actively learning **C/C++**. Alongside this, I have a solid foundation in various programming languages and build small-scale projects using Unity and Android Studio.
+Currently, I am heavily focused on **embedded systems** and actively learning **C/C++**. Alongside this, I have a solid foundation in various programming languages and build projects using Unity and Android Studio.
 
 ###  Tech Stack
 
