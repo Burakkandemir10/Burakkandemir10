@@ -25,5 +25,9 @@ Currently, I am heavily focused on **embedded systems** and actively learning **
 <br/>
 
  **Let's Connect:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-kandemir1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakkandemir6610@gmail.com)
+<a href="https://linkedin.com/in/burak-kandemir1" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+</a>
+<a href="mailto:burakkandemir6610@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" />
+</a>
