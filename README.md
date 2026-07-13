@@ -3,7 +3,7 @@
 I am a second-year Computer Programming student at Gazi University (GPA: 3.63). 
 My engineering focus is driven by a strong interest in **Embedded Systems** and **Game/Mobile Development**. 
 
-I enjoy bridging the gap between low-level hardware constraints and high-level interactive user experiences. Whether I'm working with C/C++ for embedded performance or building mobile applications and games, my goal is to write clean, performant code. I am actively building my portfolio and looking for software development internship opportunities.
+I enjoy bridging the gap between low-level hardware constraints and high-level interactive user experiences. Whether I'm working with C/C++ for embedded performance or building mobile applications and games, my goal is to write clean, performant code. 
 
 ### 🛠 Tech Stack
 
@@ -24,11 +24,16 @@ I enjoy bridging the gap between low-level hardware constraints and high-level i
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀 Featured Projects
+---
 
-*   **[FateArenaMobile](Proje_Linkin_Buraya)** - A 2D fantasy RPG mobile game developed with Unity and C#. (Includes custom class scripts and mechanics).
-*   **[İkinci Mobil/Gömülü Projenin Adı](Link)** - Kısaca 1-2 cümle ile projede ne yaptığını ve hangi teknolojiyi kullandığını açıkla.
-*   **[Üçüncü Proje Adı](Link)** - Kısaca açıkla.
+### 🌱 Currently Learning & Exploring
+*   Deepening my knowledge in **C/C++** and Microcontroller Architectures.
+*   Studying advanced **Data Structures & Algorithms** for optimized problem-solving.
+*   Exploring modern **Software Architecture** best practices for scalable applications.
+
+> *"I don't just want to learn syntax; I strive to understand the underlying mechanics of every system I touch. Driven by relentless curiosity and a highly disciplined mindset, I am constantly pushing my boundaries to build efficient, robust, and impactful software."*
+
+---
 
 ### 📊 GitHub Stats
 
