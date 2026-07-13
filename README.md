@@ -28,7 +28,8 @@ I enjoy bridging the gap between low-level hardware constraints and high-level i
 
 ### 🌱 Currently Learning & Exploring
 *   Deepening my knowledge in **C/C++** and Microcontroller Architectures.
-*   Studying advanced **Data Structures & Algorithms** for optimized problem-solving.
+*   Diving into **Python** for automation, scripting, and versatile problem-solving.
+*   Studying advanced **Data Structures & Algorithms** for optimized performance.
 *   Exploring modern **Software Architecture** best practices for scalable applications.
 
 > *"I don't just want to learn syntax; I strive to understand the underlying mechanics of every system I touch. Driven by relentless curiosity and a highly disciplined mindset, I am constantly pushing my boundaries to build efficient, robust, and impactful software."*
