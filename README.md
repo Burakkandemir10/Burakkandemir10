@@ -11,7 +11,7 @@ I enjoy bridging the gap between low-level hardware constraints and high-level i
 
 | Project | Description | Language |
 |---|---|---|
-| [Florence Mobile](https://github.com/project-florence/mobile) | AI-powered investment platform for Android — live BIST data, currency & metals, AI reports | Kotlin |
+| [Florence Mobile](https://github.com/Burakkandemir10/mobile) | AI-powered investment platform for Android — live BIST data, currency & metals, AI reports | Kotlin |
 | [SyntaxGo](https://github.com/Burakkandemir10/SyntaxGo) | Offline & distraction-free mobile code reader | Java |
 | [FightLog](https://github.com/Burakkandemir10/FightLog) | Smart interval timer & cardio tracker with GPS and MET calories | Java |
 | [FateArena](https://github.com/Burakkandemir10/FateArena) | Turn-based fantasy battle game demonstrating OOP concepts | C# |
