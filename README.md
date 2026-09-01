@@ -1,4 +1,4 @@
-# Hi! I'm Burak Kandemir 👋
+# I'm Burak Kandemir 👋
 
 I am a second-year Computer Programming student at Gazi University (GPA: 3.63). 
 My engineering focus is driven by a strong interest in **Embedded Systems** and **Game/Mobile Development**. 
