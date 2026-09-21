@@ -1,4 +1,4 @@
-# I'm Burak Kandemir 👋
+# I'm Burak Kandemir 
 
 I am a second-year Computer Programming student at Gazi University (GPA: 3.63). 
 My engineering focus is driven by a strong interest in **Embedded Systems** and **Game/Mobile Development**. 
@@ -7,7 +7,7 @@ I enjoy bridging the gap between low-level hardware constraints and high-level i
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Language |
 |---|---|---|
@@ -40,7 +40,7 @@ I enjoy bridging the gap between low-level hardware constraints and high-level i
 
 ---
 
-### 🌱 Currently Learning & Exploring
+###  Currently Learning & Exploring
 *   Deepening my knowledge in **C/C++** and Microcontroller Architectures.
 *   Diving into **Python** for automation, scripting, and versatile problem-solving.
 *   Studying advanced **Data Structures & Algorithms** for optimized performance.
@@ -50,12 +50,12 @@ I enjoy bridging the gap between low-level hardware constraints and high-level i
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burakkandemir10&theme=dark)](https://github.com/Burakkandemir10)
 <br/>
 
-### 🤝 Let's Connect:
+###  Let's Connect:
 <a href="https://linkedin.com/in/burak-kandemir1" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
 </a>
